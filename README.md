@@ -11,7 +11,7 @@ Below are the icons used in the app, located in `assets/icons/image/`:
 
 | drawer.png | home.png | light.png | logo.png | pole.png |
 |:----------:|:--------:|:---------:|:--------:|:--------:|
-| ![drawer](assets/icons/image/drawer.png) | ![home](assets/icons/image/home.png) | ![light](assets/icons/image/light.png) | ![logo](assets/icons/image/logo.png) | ![pole](assets/icons/image/pole.png) |
+| ![drawer](assets/image/drawer.png) | ![home](assets/image/home.png) | ![light](assets/image/light.png) | ![logo](assets/icons/logo.png) | ![pole](assets/image/pole.png) |
 
 ##  Features
 
