@@ -8,10 +8,9 @@ A fully featured social feed UI in Flutter built as part of the internship assig
 ## App Icons
 
 Below are the icons used in the app, located in `assets/icons/image/`:
-
-| drawer.png | home.png | light.png | logo.png | pole.png |
-|:----------:|:--------:|:---------:|:--------:|:--------:|
-| ![drawer](assets/image/drawer.png) | ![home](assets/image/home.png) | ![light](assets/image/light.png) | ![logo](assets/image/logo.png) | ![pole](assets/image/pole.png) |
+| drawer.png | home.png | light.png | logo.png | pole.png | nointernet.png | short.png |
+|:----------:|:--------:|:---------:|:--------:|:--------:|:--------------:|:---------:|
+| ![drawer](assets/image/drawer.png) | ![home](assets/image/home.png) | ![light](assets/image/light.png) | ![logo](assets/image/logo.png) | ![pole](assets/image/pole.png) | ![nointernet](assets/image/nointernet.png) | ![short](assets/image/short.png) |
 
 ##  Features
 
