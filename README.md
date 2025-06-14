@@ -66,7 +66,7 @@ assets:
 - Flutter 3.x
 - Riverpod (StateNotifierProvider)
 - Connectivity Plus
-- Cached Network Image
+- Cached Network Image  
 - Google Fonts (Optional)
 
 ---

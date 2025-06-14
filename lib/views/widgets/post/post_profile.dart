@@ -8,7 +8,8 @@ class PostProfile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Row(children: [
+      width: double.infinity,
+      child: Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
         CircleAvatar(
           backgroundImage: NetworkImage(
             postModel.user!.image ??
@@ -18,27 +19,32 @@ class PostProfile extends StatelessWidget {
         SizedBox(
           width: 10,
         ),
-        Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              postModel.user!.name ?? "",
-              style: Theme.of(context).textTheme.titleLarge,
-            ),
-            Text(
-              postModel.user!.description,
-              maxLines: 1,
-              overflow: TextOverflow.ellipsis,
-            ),
-          ],
-        ),
-        Spacer(),
-        Transform.flip(
-          child: Icon(
-            Icons.block,
-            color: const Color.fromARGB(255, 147, 11, 1),
-            weight: 0.4,
+        Expanded(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                postModel.user!.name ?? "",
+                style: Theme.of(context).textTheme.titleLarge,
+              ),
+              Container(
+                width: double.maxFinite,
+                child: Text(
+                  postModel.user!.description,
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                ),
+              ),
+            ],
           ),
+        ),
+        SizedBox(
+          width: 10,
+        ),
+        Icon(
+          Icons.block,
+          color: const Color.fromARGB(255, 147, 11, 1),
+          weight: 0.4,
         ),
       ]),
     );
