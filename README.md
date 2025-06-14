@@ -4,6 +4,15 @@ A fully featured social feed UI in Flutter built as part of the internship assig
 
 ---
 
+
+## App Icons
+
+Below are the icons used in the app, located in `assets/icons/image/`:
+
+| drawer.png | home.png | light.png | logo.png | pole.png |
+|:----------:|:--------:|:---------:|:--------:|:--------:|
+| ![drawer](assets/icons/image/drawer.png) | ![home](assets/icons/image/home.png) | ![light](assets/icons/image/light.png) | ![logo](assets/icons/image/logo.png) | ![pole](assets/icons/image/pole.png) |
+
 ##  Features
 
 -  **Animated splash-to-home transition**
@@ -68,12 +77,6 @@ assets:
 - Connectivity Plus
 - Cached Network Image  
 - Google Fonts (Optional)
-
----
-
-##  Screenshots
-
-> _(Add screenshots of HomePage, Poll UI, Shorts slider here)_
 
 ---
 
