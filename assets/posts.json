@@ -1,0 +1,292 @@
+[
+    {
+        "imageUrl": [
+            "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+            "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+            "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+            "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6"
+        ],
+        "postedAgo": "2025-06-14T10:00:00.000Z",
+        "title": "Top 10 AI Tools in 2025",
+        "subtitle": "Stay Ahead with These Game-Changing AI Tools",
+        "authorName": "TechSavvy",
+        "authorRole": "Content Creator",
+        "authorAvatarUrl": "https://i.pravatar.cc/150?img=5",
+        "views": 25000,
+        "likes": 5000,
+        "comments": 503,
+        "shares": 50,
+        "isMuted": false,
+        "question": null,
+        "shorts": null,
+        "user": {
+            "id": "1",
+            "image": "https://i.pravatar.cc/150?img=1",
+            "name": "Ava Johnson",
+            "description": "Product Designer from San Francisco"
+        }
+    },
+    {
+        "imageUrl": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+            "https://images.unsplash.com/photo-1503676382389-4809596d5290",
+            "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+            "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2"
+        ],
+        "postedAgo": "2025-06-13T14:45:00.000Z",
+        "title": "AI in Healthcare",
+        "subtitle": "How AI is revolutionizing patient care",
+        "authorName": "HealthBot",
+        "authorRole": "Analyst",
+        "authorAvatarUrl": "https://i.pravatar.cc/150?img=15",
+        "views": 18000,
+        "likes": 4200,
+        "comments": 270,
+        "shares": 30,
+        "isMuted": false,
+        "question": null,
+        "shorts": null,
+        "user": {
+            "id": "2",
+            "image": "https://i.pravatar.cc/150?img=2",
+            "name": "Liam Patel",
+            "description": "Flutter Developer & Open Source Enthusiast"
+        }
+    },
+    {
+        "imageUrl": [],
+        "postedAgo": "2025-06-12T09:30:00.000Z",
+        "title": "What do you value most in a job?",
+        "subtitle": "Let your voice be heard!",
+        "authorName": "CareerTalk",
+        "authorRole": "Survey Bot",
+        "authorAvatarUrl": "https://i.pravatar.cc/150?img=8",
+        "views": 12000,
+        "likes": 2100,
+        "comments": 140,
+        "shares": 25,
+        "isMuted": false,
+        "question": {
+            "text": "What is the most important factor when choosing a job?",
+            "options": [
+                "Salary & Benefits",
+                "Work-Life Balance",
+                "Growth",
+                "Company Culture"
+            ],
+            "correctOptionIndex": 4
+        },
+        "shorts": null,
+        "user": {
+            "id": "3",
+            "image": "https://i.pravatar.cc/150?img=3",
+            "name": "Sophia Lee",
+            "description": "Data Analyst | Python & SQL"
+        }
+    },
+    {
+        "imageUrl": [
+            "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+            "https://images.unsplash.com/photo-1465101178521-c1a9136a3b99",
+            "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+            "https://images.unsplash.com/photo-1465101046530-73398c7f28ca"
+        ],
+        "postedAgo": "2025-06-11T12:00:00.000Z",
+        "title": "AI & Art",
+        "subtitle": "Exploring the Creativity of Machines",
+        "authorName": "ArtBot",
+        "authorRole": "AI Designer",
+        "authorAvatarUrl": "https://i.pravatar.cc/150?img=9",
+        "views": 19500,
+        "likes": 3500,
+        "comments": 190,
+        "shares": 40,
+        "isMuted": true,
+        "question": null,
+        "shorts": null,
+        "user": {
+            "id": "4",
+            "image": "https://i.pravatar.cc/150?img=4",
+            "name": "Noah Garcia",
+            "description": "Backend Engineer at CloudBase"
+        }
+    },
+    {
+        "imageUrl": [],
+        "postedAgo": "2025-06-10T16:10:00.000Z",
+        "title": "Your Favorite Programming Language?",
+        "subtitle": "Vote below",
+        "authorName": "CodeQuery",
+        "authorRole": "Poll Master",
+        "authorAvatarUrl": "https://i.pravatar.cc/150?img=20",
+        "views": 10500,
+        "likes": 1900,
+        "comments": 110,
+        "shares": 15,
+        "isMuted": false,
+        "question": {
+            "text": "Which language do you enjoy coding in the most?",
+            "options": [
+                "Python",
+                "JavaScript",
+                "Dart",
+                "C++"
+            ],
+            "correctOptionIndex": 2
+        },
+        "shorts": null,
+        "user": {
+            "id": "5",
+            "image": "https://i.pravatar.cc/150?img=5",
+            "name": "Mia Davis",
+            "description": "Marketing Strategist | Creative Thinker"
+        }
+    },
+    {
+        "imageUrl": [],
+        "postedAgo": "2025-06-09T11:00:00.000Z",
+        "title": "Watch: AI Teaches Itself to Paint!",
+        "subtitle": "Short clip inside",
+        "authorName": "NeuralVision",
+        "authorRole": "Short Creator",
+        "authorAvatarUrl": "https://i.pravatar.cc/150?img=17",
+        "views": 22500,
+        "likes": 4900,
+        "comments": 320,
+        "shares": 60,
+        "isMuted": false,
+        "question": null,
+        "shorts": [
+            {
+                "thumbnailUrl": "https://picsum.photos/id/1011/800/600",
+                "videoUrl": "https://www.example.com/shorts/ocean-waves",
+                "title": "Waves Crashing on Rocks"
+            },
+            {
+                "thumbnailUrl": "https://picsum.photos/id/1015/800/600",
+                "videoUrl": "https://www.example.com/shorts/forest-trail",
+                "title": "Walking Through a Forest Trail"
+            },
+            {
+                "thumbnailUrl": "https://picsum.photos/id/1025/800/600",
+                "videoUrl": "https://www.example.com/shorts/dog-jumping",
+                "title": "Dog Playing in the Park"
+            },
+            {
+                "thumbnailUrl": "https://picsum.photos/id/1035/800/600",
+                "videoUrl": "https://www.example.com/shorts/street-food",
+                "title": "Making Street-Style Tacos"
+            },
+            {
+                "thumbnailUrl": "https://picsum.photos/id/1041/800/600",
+                "videoUrl": "https://www.example.com/shorts/biking-downhill",
+                "title": "Biking Downhill Adventure"
+            },
+            {
+                "thumbnailUrl": "https://img.youtube.com/vi/tgbNymZ7vqY/0.jpg",
+                "videoUrl": "https://www.example.com/shorts/chatgpt-coding",
+                "title": "ChatGPT Builds a Web App in 60s"
+            },
+            {
+                "thumbnailUrl": "https://img.youtube.com/vi/3fumBcKC6RE/0.jpg",
+                "videoUrl": "https://www.example.com/shorts/robot-dance",
+                "title": "Boston Dynamics Robots Dancing"
+            },
+            {
+                "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
+                "videoUrl": "https://www.example.com/shorts/ai-tricks",
+                "title": "5 Tricks You Didn't Know"
+            },
+            {
+                "thumbnailUrl": "https://img.youtube.com/vi/fMym_BKWQzk/0.jpg",
+                "videoUrl": "https://www.example.com/shorts/ai-detects-fake-news",
+                "title": "AI Detects Fake News in Seconds"
+            }
+        ],
+        "user": {
+            "id": "6",
+            "image": "https://i.pravatar.cc/150?img=6",
+            "name": "Elijah Smith",
+            "description": "AI/ML Engineer with a focus on NLP"
+        }
+    },
+    {
+        "imageUrl": [
+            "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+            "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+            "https://images.unsplash.com/photo-1519125323398-675f0ddb6308"
+        ],
+        "postedAgo": "2025-06-08T14:00:00.000Z",
+        "title": "AI in Space Exploration",
+        "subtitle": "How AI is helping discover the universe",
+        "authorName": "AstroBot",
+        "authorRole": "Science Journalist",
+        "authorAvatarUrl": "https://i.pravatar.cc/150?img=6",
+        "views": 16000,
+        "likes": 3700,
+        "comments": 230,
+        "shares": 35,
+        "isMuted": false,
+        "question": null,
+        "shorts": null,
+        "user": {
+            "id": "7",
+            "image": "https://i.pravatar.cc/150?img=7",
+            "name": "Isabella Thomas",
+            "description": "UI/UX Designer passionate about minimalism"
+        }
+    },
+    {
+        "imageUrl": [
+            "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+            "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+            "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+        ],
+        "postedAgo": "2025-06-07T10:45:00.000Z",
+        "title": "The Rise of Robotics",
+        "subtitle": "Meet the bots that change industries",
+        "authorName": "RoboWorld",
+        "authorRole": "AI Engineer",
+        "authorAvatarUrl": "https://i.pravatar.cc/150?img=18",
+        "views": 21300,
+        "likes": 4400,
+        "comments": 200,
+        "shares": 48,
+        "isMuted": false,
+        "question": null,
+        "shorts": null,
+        "user": {
+            "id": "8",
+            "image": "https://i.pravatar.cc/150?img=8",
+            "name": "James Rodriguez",
+            "description": "Blockchain Developer | Solidity"
+        }
+    },
+    {
+        "imageUrl": [
+            "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6",
+            "https://images.unsplash.com/photo-1603791452906-c8f99c70e84c",
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+            "https://images.unsplash.com/photo-1503676382389-4809596d5290"
+        ],
+        "postedAgo": "2025-06-06T09:30:00.000Z",
+        "title": "AI Meets Agriculture",
+        "subtitle": "Smart farming with artificial intelligence",
+        "authorName": "AgriTechAI",
+        "authorRole": "Tech Reporter",
+        "authorAvatarUrl": "https://i.pravatar.cc/150?img=12",
+        "views": 17500,
+        "likes": 3900,
+        "comments": 180,
+        "shares": 27,
+        "isMuted": false,
+        "question": null,
+        "shorts": null,
+        "user": {
+            "id": "9",
+            "image": "https://i.pravatar.cc/150?img=9",
+            "name": "Amelia Wilson",
+            "description": "Healthcare Data Scientist"
+        }
+    }
+]
